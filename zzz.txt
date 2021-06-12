@@ -1,2 +1,5 @@
 test
+<<<<<<< HEAD
 alo t vua sua code nay de kam gi?
+=======
+>>>>>>> 171ef8b94aadb27ef02dcb1bec34db00e6f4015e
