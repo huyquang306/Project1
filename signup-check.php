@@ -69,3 +69,4 @@ if (isset($_POST['username']) && isset($_POST['password'])
 	header("Location: signup.php");
 	exit();
 }
+//test 
